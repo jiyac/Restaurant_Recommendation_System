@@ -11,7 +11,7 @@
 - Nibhir Tongchangya
 
 - Jiya Chintur
-- 
+
 *Under the mentorship of [Mr. Baan Bapat](https://www.linkedin.com/in/baan-bapat-90b74b13)*
 
 ### Objective: 
